@@ -2,7 +2,6 @@
 name = "examples"
 version = "0.1.0"
 description = "Ionic integration examples"
-authors = ["Your Name <you@example.com>"]
 license = "MIT"
 readme = "README.md"
 
