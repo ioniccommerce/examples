@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "r2r-ionic-demo"
+version = "0.1.0"
+description = ""
+authors = ["Owen Sims <owen@ioniccommerce.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python=">=3.11,<3.12"
+r2r = {extras = ["all"], version = "^0.1.28"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
